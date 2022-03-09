@@ -1,0 +1,4 @@
+purchase_id,product_id,quantity,money
+BA1,4,23,10000
+T1,2,15,200000
+T2,6,20,500300
